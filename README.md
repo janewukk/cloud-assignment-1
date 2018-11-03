@@ -12,4 +12,5 @@ Junyue Wu(jw3674)
 Bowen Tan(bt2484)
 
 Domain name: www.chatboxobj.com
+
 Using cloudFront, SSL ACM certificate, Route 53 and DNS routeMap.
